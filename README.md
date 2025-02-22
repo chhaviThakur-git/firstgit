@@ -1,4 +1,4 @@
 # firstgit
 this is my first repository
 <br>
-Author -Chhavi Thakur
+Author -Chhavi Thakur(java)
